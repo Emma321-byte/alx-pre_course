@@ -4,3 +4,5 @@ ___
 ##1. Setting up your username and password.
 ##2. Creating a repository.
 ##3. Adding a new remote to your git repository.
+
+Now updating from github
